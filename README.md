@@ -50,7 +50,7 @@ The Book Management System is a C++ project designed to manage a collection of b
 
     2. Book.h and Book.cpp: Header and source files for the Book class, encapsulating book properties and methods.
 
-    3.BookManager.h and BookManager.cpp: Header and source files for the linked list operations and file handling logic.
+    3. BookManager.h and BookManager.cpp: Header and source files for the linked list operations and file handling logic.
 
 <br><h3>How to Use</h3>
     
